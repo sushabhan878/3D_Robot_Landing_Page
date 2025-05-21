@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/screenshot.png" alt="SCODE Landing Page" />
+  <img src="./src/assets/screenshot.png" alt="SCODE Landing Page" />
 </p>
 
 <h1 align="center">🤖 SCODE – 3D Robo Landing Page</h1>
